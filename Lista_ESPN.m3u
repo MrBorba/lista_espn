@@ -1,0 +1,14 @@
+#EXTM3U
+
+#PLAYLISTV: pltv-logo="http://i66.tinypic.com/vxg12r.png" pltv-name="Canal Futucandroid" pltv-description=TV ONLINE para PlaylisTV/IPTV" pltv-cover="http://i67.tinypic.com/r1j2n6.png" pltv-author="Silvana Bastos" pltv-site="" pltv-email="futucadrois@gmail.com" pltv-phone=""
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WvF4V1k.png?1" group-title="",ESPN + HD
+http://msdo.iptvsystem.cloud:8880/K1ndpoqs111/SPi1sT98j2sa/83
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rTXcueh.png" group-title="",ESPN BRASIL HD
+http://msdo.iptvsystem.cloud:8880/K1ndpoqs111/SPi1sT98j2sa/114
+#EXTINF:-1 tvg-logo="http://i.imgur.com/nMew9G1.png" group-title="",ESPN HD
+http://msdo.iptvsystem.cloud:8880/K1ndpoqs111/SPi1sT98j2sa/115
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OeC9hcZ.png" group-title="",ESPN EXTRA HD
+http://msdo.iptvsystem.cloud:8880/K1ndpoqs111/SPi1sT98j2sa/2
+
+
