@@ -1,0 +1,316 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="ESPN + HD">
+    <display-name lang="pt">ESPN + HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="ESPN BRASIL HD">
+    <display-name lang="pt">ESPN BRASIL HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="ESPN HD">
+    <display-name lang="pt">ESPN HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <programme start="20190106013000 -0200" stop="20190106020000 -0200" channel="ESPN + HD">
+    <title lang="pt">Pokerstars Championship Cash Challenge</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190106020000 -0200" stop="20190106030000 -0200" channel="ESPN + HD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo.u0027SportsCenter(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190106030000 -0200" stop="20190106050000 -0200" channel="ESPN + HD">
+    <title lang="pt">Campeonato Espanhol</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190106050000 -0200" stop="20190106060000 -0200" channel="ESPN + HD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo.u0027SportsCenter(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190106060000 -0200" stop="20190106070000 -0200" channel="ESPN + HD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo.u0027SportsCenter(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190106070000 -0200" stop="20190106080000 -0200" channel="ESPN + HD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo.u0027SportsCenter(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190106080000 -0200" stop="20190106103000 -0200" channel="ESPN + HD">
+    <title lang="pt">NBA</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190106103000 -0200" stop="20190106113000 -0200" channel="ESPN + HD">
+    <title lang="pt">ESPN Filmes: Son Of The Congo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190106113000 -0200" stop="20190106120000 -0200" channel="ESPN + HD">
+    <title lang="pt">F1: The Inside Line</title>
+    <desc lang="pt">Seja bem-vindo ao mundo da principal categoria do automobilismo mundial. Acompanhe os bastidores, as principais notícias e o debate sobre as principais questões que envolvem o badalado e milionário circo da Fórmula 1(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190106120000 -0200" stop="20190106143000 -0200" channel="ESPN + HD">
+    <title lang="pt">NFL</title>
+    <desc lang="pt">A Paixão dos EUA, o futebol da bola oval também tem fãs no Brasil. Trinta e dois times disputam a NFL, liga profissional de futebol americano(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190106143000 -0200" stop="20190106150000 -0200" channel="ESPN + HD">
+    <title lang="pt">NFL: Abre O Jogo - Ao Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190106150000 -0200" stop="20190106183000 -0200" channel="ESPN + HD">
+    <title lang="pt">NFL - Ao Vivo</title>
+    <desc lang="pt">A Paixão dos EUA, o futebol da bola oval também tem fãs no Brasil. Trinta e dois times disputam a NFL, liga profissional de futebol americano(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190106183000 -0200" stop="20190106220000 -0200" channel="ESPN + HD">
+    <title lang="pt">NFL - Ao Vivo</title>
+    <desc lang="pt">A Paixão dos EUA, o futebol da bola oval também tem fãs no Brasil. Trinta e dois times disputam a NFL, liga profissional de futebol americano(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190106220000 -0200" stop="20190106230000 -0200" channel="ESPN + HD">
+    <title lang="pt">ESPN Filmes: Son Of The Congo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190106010000 -0200" stop="20190106020000 -0200" channel="ESPN BRASIL HD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo.u0027SportsCenter(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190106020000 -0200" stop="20190106040000 -0200" channel="ESPN BRASIL HD">
+    <title lang="pt">Copa São Paulo de Futebol Junior</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190106040000 -0200" stop="20190106050000 -0200" channel="ESPN BRASIL HD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo.u0027SportsCenter(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190106050000 -0200" stop="20190106060000 -0200" channel="ESPN BRASIL HD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo.u0027SportsCenter(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190106060000 -0200" stop="20190106080000 -0200" channel="ESPN BRASIL HD">
+    <title lang="pt">Copa São Paulo de Futebol Junior</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190106080000 -0200" stop="20190106093000 -0200" channel="ESPN BRASIL HD">
+    <title lang="pt">Resenha ESPN</title>
+    <desc lang="pt">Domingo é dia de resenha No comando do programa, André Plihal convoca quem mais entende do riscado: os craques da ESPN, Alex e Sorin, além de convidados especiais. Todo domingo, às 22h(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190106093000 -0200" stop="20190106113000 -0200" channel="ESPN BRASIL HD">
+    <title lang="pt">Campeonato Espanhol</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190106113000 -0200" stop="20190106133000 -0200" channel="ESPN BRASIL HD">
+    <title lang="pt">Premier League</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190106133000 -0200" stop="20190106142000 -0200" channel="ESPN BRASIL HD">
+    <title lang="pt">Futebol Na Veia - Ao Vivo</title>
+    <desc lang="pt">Fique por dentro das últimas notícias e análises do futebol. Diretamente dos estádios, os repórteres trazem informações exclusivas sobre os confrontos do dia. Um guia completo para acompanhar a rodada(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190106142000 -0200" stop="20190106163000 -0200" channel="ESPN BRASIL HD">
+    <title lang="pt">Copa São Paulo de Futebol Junior - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190106163000 -0200" stop="20190106183000 -0200" channel="ESPN BRASIL HD">
+    <title lang="pt">Campeonato Espanhol - Ao Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190106183000 -0200" stop="20190106193000 -0200" channel="ESPN BRASIL HD">
+    <title lang="pt">Futebol Na Veia - Ao Vivo</title>
+    <desc lang="pt">Fique por dentro das últimas notícias e análises do futebol. Diretamente dos estádios, os repórteres trazem informações exclusivas sobre os confrontos do dia. Um guia completo para acompanhar a rodada(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190106193000 -0200" stop="20190106200000 -0200" channel="ESPN BRASIL HD">
+    <title lang="pt">Futebol No Mundo - Ao Vivo</title>
+    <desc lang="pt">O programa trata exclusivamente do futebol internacional. Entrevistas exclusivas, reportagens especiais, e, é claro, muitos gols(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190106200000 -0200" stop="20190106220000 -0200" channel="ESPN BRASIL HD">
+    <title lang="pt">Copa São Paulo de Futebol Junior - Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190106220000 -0200" stop="20190106230000 -0200" channel="ESPN BRASIL HD">
+    <title lang="pt">Sportscenter - Ao Vivo</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo.u0027SportsCenter(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190106013000 -0200" stop="20190106020000 -0200" channel="ESPN HD">
+    <title lang="pt">Pokerstars Championship Cash Challenge</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190106020000 -0200" stop="20190106030000 -0200" channel="ESPN HD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo.u0027SportsCenter(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190106030000 -0200" stop="20190106050000 -0200" channel="ESPN HD">
+    <title lang="pt">Campeonato Espanhol</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190106050000 -0200" stop="20190106060000 -0200" channel="ESPN HD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo.u0027SportsCenter(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190106060000 -0200" stop="20190106070000 -0200" channel="ESPN HD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo.u0027SportsCenter(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190106070000 -0200" stop="20190106080000 -0200" channel="ESPN HD">
+    <title lang="pt">Sportscenter</title>
+    <desc lang="pt">Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo.u0027SportsCenter(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190106080000 -0200" stop="20190106103000 -0200" channel="ESPN HD">
+    <title lang="pt">NBA</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190106103000 -0200" stop="20190106113000 -0200" channel="ESPN HD">
+    <title lang="pt">ESPN Filmes: Son Of The Congo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190106113000 -0200" stop="20190106120000 -0200" channel="ESPN HD">
+    <title lang="pt">F1: The Inside Line</title>
+    <desc lang="pt">Seja bem-vindo ao mundo da principal categoria do automobilismo mundial. Acompanhe os bastidores, as principais notícias e o debate sobre as principais questões que envolvem o badalado e milionário circo da Fórmula 1(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190106120000 -0200" stop="20190106143000 -0200" channel="ESPN HD">
+    <title lang="pt">NFL</title>
+    <desc lang="pt">A Paixão dos EUA, o futebol da bola oval também tem fãs no Brasil. Trinta e dois times disputam a NFL, liga profissional de futebol americano(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190106143000 -0200" stop="20190106150000 -0200" channel="ESPN HD">
+    <title lang="pt">NFL: Abre O Jogo - Ao Vivo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190106150000 -0200" stop="20190106183000 -0200" channel="ESPN HD">
+    <title lang="pt">NFL - Ao Vivo</title>
+    <desc lang="pt">A Paixão dos EUA, o futebol da bola oval também tem fãs no Brasil. Trinta e dois times disputam a NFL, liga profissional de futebol americano(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190106183000 -0200" stop="20190106220000 -0200" channel="ESPN HD">
+    <title lang="pt">NFL - Ao Vivo</title>
+    <desc lang="pt">A Paixão dos EUA, o futebol da bola oval também tem fãs no Brasil. Trinta e dois times disputam a NFL, liga profissional de futebol americano(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20190106220000 -0200" stop="20190106230000 -0200" channel="ESPN HD">
+    <title lang="pt">ESPN Filmes: Son Of The Congo</title>
+    <desc lang="pt">Indisponível(n)</desc>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+</tv>
